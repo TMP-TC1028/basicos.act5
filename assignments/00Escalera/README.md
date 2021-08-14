@@ -27,18 +27,9 @@ Un número que corresponde a la altura de la casa (flotante positivo) y el ángu
 
 Un número, un número que representa el largo que debe tener la escalera. IMPORTANTE: Redondea el número para que el resultado sea entero. Utiliza la función adecuada que te provee Python para realizar un redondeo.
 
-## Ejemplos de ejecución
+## Ejemplo de ejecución
 
 Ejemplo 1 
-
-```plaintext
-Altura de la casa: 2
-Angulo en grados: 45
-
-Largo de la escalera: 3
-```
-
-Ejemplo 2 
 
 ```plaintext
 Altura de la casa: 2
